@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="listview效果"
+        android:id="@+id/list">
+        <menu>
+            <item android:title="horizontal"
+                android:id="@+id/list_ho">
+            </item>
+            <item android:title="vertical"
+                android:id="@+id/list_ver">
+            </item>
+            <item android:title="horizontal_re"
+                android:id="@+id/list_ho_re">
+            </item>
+            <item android:title="vertical_re"
+                android:id="@+id/list_ver_re">
+            </item>
+        </menu>
+    </item>
+    <item android:title="grid"
+        android:id="@+id/grid">
+        <menu>
+            <item
+                android:id="@+id/grid_vertical"
+                android:title="grid_vertical">
+            </item>
+            <item
+                android:id="@+id/grid_vertical_re"
+                android:title="grid_vertical_re">
+            </item>
+            <item
+                android:id="@+id/grid_horizontal"
+                android:title="grid_horizontal">
+            </item>
+            <item
+                android:id="@+id/grid_horizontal_re"
+                android:title="grid_horizontal_re">
+            </item>
+        </menu>
+    </item>
+    <item android:title="瀑布流"
+        android:id="@+id/stst">
+
+    </item>
+</menu>
